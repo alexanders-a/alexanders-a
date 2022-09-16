@@ -1,13 +1,7 @@
 <h1 align="center">Hi 🙃, I'm Alex</h1>
 <h3 align="center">A frontend developer</h3>
 <h3 align="center"> https://alexandrsa.web.app/</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexanders-a&label=Profile%20views&color=0e75b6&style=flat" alt="alexanders-a" /> </p>
-
-
-
-
-<p align="left">
-</p>
+<p align="center"> <img src="https://www.codewars.com/users/alexanders-a/badges/large" alt="alexanders-a" /> </p>
 
 
 ## Stack
